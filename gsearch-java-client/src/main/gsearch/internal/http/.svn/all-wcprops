@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3/trunk/gsearch-java-client/src/main/gsearch/internal/http
+END
+GzipRequestInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3/trunk/gsearch-java-client/src/main/gsearch/internal/http/GzipRequestInterceptor.java
+END
+GzipResponseInterceptor.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/gsearch-java-client/src/main/gsearch/internal/http/GzipResponseInterceptor.java
+END
+GzipDecompressingEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3/trunk/gsearch-java-client/src/main/gsearch/internal/http/GzipDecompressingEntity.java
+END

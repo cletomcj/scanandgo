@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/41/trunk/gsearch-java-client/src/main/gsearch
+END
+ToStringBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/22/trunk/gsearch-java-client/src/main/gsearch/ToStringBuilder.java
+END
+Image.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/21/trunk/gsearch-java-client/src/main/gsearch/Image.java
+END
+PhoneNumber.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/21/trunk/gsearch-java-client/src/main/gsearch/PhoneNumber.java
+END
+OrderBy.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/34/trunk/gsearch-java-client/src/main/gsearch/OrderBy.java
+END
+NewsTopic.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/3/trunk/gsearch-java-client/src/main/gsearch/NewsTopic.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/12/trunk/gsearch-java-client/src/main/gsearch/Response.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/38/trunk/gsearch-java-client/src/main/gsearch/Result.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/41/trunk/gsearch-java-client/src/main/gsearch/Client.java
+END
